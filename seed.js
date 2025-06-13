@@ -55,7 +55,7 @@ const seedData = async () => {
         price: 600,
         duration: "5 Days",
         image: "rajasthan.jpg",
-        sales: 280,
+        sales: 180,
       },
       {
         name: "Trip to Goa",
