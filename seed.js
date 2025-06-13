@@ -52,10 +52,10 @@ const seedData = async () => {
       },
       {
         name: "Rajasthan Tour",
-        price: 14500,
+        price: 600,
         duration: "5 Days",
         image: "rajasthan.jpg",
-        sales: 980,
+        sales: 280,
       },
       {
         name: "Trip to Goa",
@@ -66,7 +66,7 @@ const seedData = async () => {
       },
       {
         name: "Nainital Escape",
-        price: 9500,
+        price: 13000,
         duration: "3 Days",
         image: "nainital.jpg",
         sales: 1020,
